@@ -1,0 +1,388 @@
+/* ==UserStyle==
+@name           Google Dark
+@namespace      https://github.com/PixelSoftwareStudios/google-dark/
+@version        1.0.9
+@description    Google Dark Mode
+@author         Dante
+@license        CC BY-SA 4.0
+==/UserStyle== */
+@-moz-document domain("google.com") {
+	body {
+		background-color: #333 !important;
+		color: #f1f1f1 !important;
+	}
+
+	#hptl a {
+		color: #f1f1f1 !important;
+	}
+
+	#gb#gb a.gb_d, #gb#gb a.gb_e, #gb#gb span.gb_e {
+		color: rgba(241,241,241,0.87) !important;
+	}
+
+	#fbar {
+		background-color: #222 !important;
+	}
+
+	.minidiv .sfbg {
+		background-color: #222 !important;
+	}
+
+	.ftl, #footer a {
+		color: #f1f1f1 !important;
+	}
+
+	.RNNXgb {
+		background-color: #ddd !important;
+	}
+
+	.gb_E {
+		background-color: #444 !important;
+	}
+
+	.gb_F {
+		background-color: #ddd !important;
+	}
+
+	.gb_B {
+		color: #f1f1f1 !important;
+		background-color: #444 !important;
+	}
+
+	#gb a.gb_F, #gb a.gb_F:visited, #gb a.gb_F:active, #gb a.gb_H, #gb a.gb_H:visited {
+		color: rgba(241,241,241,0.87) !important;
+	}
+
+	.gb_Lb {
+		background-color: #333 !important;
+	}
+
+	.gb_Nb:hover {
+		background-color: #555 !important;
+	}
+
+	.gb_sb {
+		background-color: #222 !important;
+	}
+
+	.gb_4, #gb a.gb_4.gb_4, .gb_5 {
+		color: #f1f1f1 !important;
+	}
+
+	.gb_4 {
+		background-color: #333 !important;
+	}
+
+	.gb_sb .gb_tb:hover {
+		background-color: #666 !important;
+		background-image: none !important;
+	}
+	.vk_c, .vk_cxp, #rhs .fIcnad {
+		border: 1px solid #ddd !important;
+	}
+	
+	#hdtbSum {
+		background-color: #333 !important;
+	}
+
+	#hdtb .hdtb-mitem a, #hdtb-msb #hdtb-more, #hdtb-msb #hdtb-tls{
+		color: #f1f1f1 !important;
+	}
+
+	.vk_c, .vk_cxp {
+		background-color: #444 !important;
+	}
+
+	#appbar {
+		background-color: #333 !important;
+	}
+
+	.kno-ecr-pt {
+		color: rgba(241,241,241,.87) !important;
+	}
+
+	.Ss2Faf a {
+		color: #f1f1f1 !important;
+	}
+	#brs .med {
+		color: #f1f1f1 !important;
+	}
+	.cv2VAd {
+		border: 1px solid #ddd !important;
+	}
+
+	g-inner-card {
+		background-color: #222 !important;
+	}
+
+	#hdtb-tls:hover {
+		background-color: #555 !important;
+	}
+
+	.uOaWdb {
+		background-color: #333 !important;
+	}
+
+	.avoNH {
+		color: #f1f1f1 !important;
+	}
+
+	.aajZCb {
+		background-color: #bbb;
+	}
+
+	.uMdZh {
+		color: rgba(241,241,241,.54) !important;
+	}
+	.uMdZh:hover {
+		background-color: #222 !important;
+	}
+	.LC20lb {
+		color: #aaa !important;
+	}
+	.dbg0pd {
+		color: #f1f1f1 !important;
+	}
+	.B9EXRd {
+		background-color: #222 !important;
+	}
+
+	#Wprf1b {
+		color: #f1f1f1 !important;
+	}
+
+	.action-menu-item:hover {
+		background-color: #777 !important;
+	}
+
+	.ab_dropdown {
+		background-color: #666 !important;
+	}
+
+	.GHDvEf, .GHDvEf:hover, .GHDvEf.selected, .GHDvEf.selected:hover {
+		background-color: #333 !important;
+	}
+	.ab_dropdown {
+		background-color: #666 !important;
+	}
+	.gb_3b, .gb_5b, .gb_7b {
+		color: #f1f1f1 !important;
+	}
+
+	.gb_i:not(.gb_j):hover .gb_o {
+		background-color: rgba(51, 51, 51, .9) !important;
+	}
+
+	.yyjhs {
+		background-color: #333 !important;
+	}
+
+	.F7IIOc.rlf__open:not(.rlf__applied), .F7IIOc:not(.rlf__applied):hover {
+		color: #bbb !important;
+	}
+
+	.F7IIOc {
+		color: #f1f1f1 !important;
+	}
+
+	.czHJJ {
+		background-color: #555 !important;
+	}
+
+	.w3RMhb .zFsEvf {
+		color: #f1f1f1 !important;
+	}
+
+	.w3RMhb:hover {
+		background-color: #444 !important;
+	}
+
+	#rllhd__fldhc {
+		background-color: #222 !important;
+	}
+	.phYMDf {
+		color: #f1f1f1 !important;
+	}
+
+	.RGRr8e, .kVrAEc img {
+		color: #f1f1f1 !important;
+	}
+
+	.cJgcvb {
+		color: #f1f1f1 !important;
+	}
+
+	.cF4V5c {
+		background-color: #444 !important;
+	}
+
+	.Dl1rld {
+		color: #f1f1f1 !important;
+	}
+
+	.EI11Pd, .EI11Pd:link, .EI11Pd:visited {
+		color: none !important;
+	}
+
+	.ELcVZ {
+		color: #f1f1f1 !important;
+	}
+
+	.sh-dlr__list-result {
+		background-color: #222 !important;
+	}
+
+	.rOwove {
+		color: #f1f1f1 !important;
+	}
+
+	#topstuff .sh-sp__pswtr {
+		background-color: #ddd !important;
+	}
+
+	.sh-sr__shop-result-header {
+		color: #f1f1f1 !important;
+	}
+
+	.XIWc9e {
+		background-color: #444 !important;
+	}
+
+	.d0DjRd {
+		background-color: #333 !important;
+	}
+
+	.d0DjRd:hover {
+		background-color: #444 !important;
+	}
+
+	.eEPEIf {
+		color: none !important;
+	}
+
+	.sh-sp__tt {
+		background-color: #222 !important;
+	}
+	.kHxwFf {
+		color: none !important;
+	}
+
+	.sh-sr__shop-result-header {
+		color: #f1f1f1 !important;
+	}
+	.garHBe {
+		color: #f1f1f1 !important;
+	}
+
+	.cwUqwd {
+		color: #f1f1f1 !important;
+	}
+
+	.cmlJmd {
+		color: #f1f1f1 !important;
+	}
+	.y8Jpof .LrzXr {
+		color: #999 !important;
+	}
+
+	.y8Jpof:hover {
+		background-color: #555 !important;
+	}
+
+	.x9emld {
+		color: #f1f1f1 !important;
+	}
+
+	#hdtb-msb .hdtb-tl-sel, #hdtb-msb .hdtb-tl-sel:hover {
+		background-color: #444 !important;
+	}
+
+	.VvrH3b:hover {
+		background-color: #444 !important;
+	}
+	.uMfazd {
+		background-color: #222 !important;
+	}
+	.vhWGrd div {
+		color: #f1f1f1 !important;
+	}
+
+	a.scCTtb div {
+		color: #ddd;
+	}
+	.Mw2I7 {
+		background-color: #444 !important;
+		color: #f1f1f1 !important;
+	}
+
+	.uais2d {
+		background-color: #222;
+	}
+
+	.V7X3Je {
+		color: #f1f1f1;
+	}
+
+	.AHTPsb, .AHTPsb:hover {
+		color: #f1f1f1 !important;
+	}
+
+	.afrOIf {
+		background-color: #222 !important;
+	}
+
+	.rIKiec {
+		color: rgba(241,241,241,.54) !important;
+	}
+
+
+	header[_ngcontent-ssu-c4] {
+		background-color: #222;
+	}
+
+	.t2Style[_nghost-ssu-c7] .searchFormWrapper[_ngcontent-ssu-c7] {
+		background-color: #ddd;
+	}
+
+	.gsxSlCommon.mat-sidenav-container {
+		background-color: #333;
+	}
+
+	[_nghost-ssu-c25] {
+		background-color: #444;
+		color: #f1f1f1;
+	}
+
+	.checkBoxInfo[_ngcontent-ssu-c24] {
+		color: rgba(241,241,241,.54);
+	}
+
+	.gmat-card {
+		background-color: #444 !important;
+	}
+
+	.searchSuggestions[_ngcontent-ssu-c12] {
+		background-color: #aaa;
+	}
+
+	mat-sidenav-container.isT2Shopping.mainContent {
+		background-color: #333;
+	}
+
+	.cartHeaderWrapper[_ngcontent-ssu-c37], .isT2CartEnabled[_ngcontent-ssu-c37] .cartHeaderContainer[_ngcontent-ssu-c37] {
+		background-color: #444;
+	}
+
+	.gmat-elevation-zAvatarCard[_ngcontent-ssu-c41], gmat-card.gmat-elevation-zAvatarCard[_ngcontent-ssu-c41] {
+		background-color: #222;
+	}
+
+	.gmat-elevation-zAvatarCard[_ngcontent-ssu-c41] h2.avatarCardTitle[_ngcontent-ssu-c41], gmat-card.gmat-elevation-zAvatarCard[_ngcontent-ssu-c41] h2.avatarCardTitle[_ngcontent-ssu-c41] {
+		color: #888 !important;
+	}
+
+	.gmat-elevation-zAvatarCard[_ngcontent-ssu-c41] .avatarCardImg[_ngcontent-ssu-c41], gmat-card.gmat-elevation-zAvatarCard[_ngcontent-ssu-c41] .avatarCardImg[_ngcontent-ssu-c41] {
+		background-color: #111;
+	}
+	
+}
