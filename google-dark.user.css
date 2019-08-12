@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           Google Dark
 @namespace      https://github.com/PixelSoftwareStudios/google-dark/
-@version        1.0.9
+@version        1.1.0
 @description    Google Dark Mode
 @author         Dante
 @license        CC BY-SA 4.0
@@ -10,6 +10,10 @@
 	body {
 		background-color: #333 !important;
 		color: #f1f1f1 !important;
+	}
+
+	h1, h2, h3, h4, h5, h6 {
+		color: #4f4f4f !important;
 	}
 
 	#hptl a {
@@ -101,8 +105,16 @@
 		color: rgba(241,241,241,.87) !important;
 	}
 
+	.Ss2Faf {
+		color: #f1f1f1 !important;
+	}
+
 	.Ss2Faf a {
 		color: #f1f1f1 !important;
+	}
+
+	.sbibod, .sbib_a {
+		background-color: #ccc;
 	}
 	#brs .med {
 		color: #f1f1f1 !important;
@@ -116,6 +128,7 @@
 	}
 
 	#hdtb-tls:hover {
+		background-image: none !important;
 		background-color: #555 !important;
 	}
 
@@ -147,6 +160,10 @@
 		background-color: #222 !important;
 	}
 
+	#fsett {
+		background-color: #444;
+	}
+
 	#Wprf1b {
 		color: #f1f1f1 !important;
 	}
@@ -171,6 +188,10 @@
 
 	.gb_i:not(.gb_j):hover .gb_o {
 		background-color: rgba(51, 51, 51, .9) !important;
+	}
+
+	.gb_o {
+		color: rgba(241,241,241,0.87);
 	}
 
 	.yyjhs {
@@ -220,9 +241,9 @@
 		color: #f1f1f1 !important;
 	}
 
-	.EI11Pd, .EI11Pd:link, .EI11Pd:visited {
+	/* .EI11Pd, .EI11Pd:link, .EI11Pd:visited {
 		color: none !important;
-	}
+	} */
 
 	.ELcVZ {
 		color: #f1f1f1 !important;
@@ -256,16 +277,16 @@
 		background-color: #444 !important;
 	}
 
-	.eEPEIf {
+	/* .eEPEIf {
 		color: none !important;
-	}
+	} */
 
 	.sh-sp__tt {
 		background-color: #222 !important;
 	}
-	.kHxwFf {
-		color: none !important;
-	}
+	/* .kHxwFf { */
+		/* color: none !important;
+	} */
 
 	.sh-sr__shop-result-header {
 		color: #f1f1f1 !important;
@@ -295,6 +316,7 @@
 
 	#hdtb-msb .hdtb-tl-sel, #hdtb-msb .hdtb-tl-sel:hover {
 		background-color: #444 !important;
+		background-image: none !important;
 	}
 
 	.VvrH3b:hover {
@@ -305,6 +327,14 @@
 	}
 	.vhWGrd div {
 		color: #f1f1f1 !important;
+	}
+
+	.wUrVib {
+		color: #1a0dff;
+	}
+
+	.JolIg {
+		color: #6f6f6f !important;
 	}
 
 	a.scCTtb div {
@@ -335,7 +365,110 @@
 		color: rgba(241,241,241,.54) !important;
 	}
 
+	.Uh4Mac {
+		background-color: #222;
+	}
+	.JzIyE .KZ3Wad, .JzIyE .KZ3Wad:hover {
+		color: rgba(241,241,241,.8);
+	}
 
+	.nrAB0c {
+		background-color: #222;
+		color: rgba(241,241,241,0.87);
+	}
+
+	.nma0Wb {
+		background-color: #222;
+	}
+
+	.g1mG8c, .g1mG8c:visited {
+		color: rgba(200,200,200,0.87);
+	}
+
+	.w8qArf .fl {
+		color: #777 !important;
+	}
+
+	.Ss2Faf {
+		color: #f1f1f1;
+	}
+
+	a:link, .w, #prs a:visited, #prs a:active, .q:active, .q:visited, .kl:active, .tbotu {
+		color: #1a0dcc;
+	}
+
+	a.fl:link, .fl a, .flt, a.flt, .gl a:link, a.mblink, .mblink b {
+		color: #1a0ddd;
+	}
+
+	.VQBFP a:link, .VQBFP a:visited {
+		color: #1a0dcc;
+	}
+
+	.SW5pqf {
+		color: #1a0dee;
+	}
+
+	.Eegi6c, .dUFb4e {
+		color: rgba(241,241,241,.87);
+	}
+
+	div.rl_feature, .rlc__slider {
+		background-color: #222 !important;
+	}
+
+	.rlc__slider-page {
+		background-color: #222 !important;
+	}
+
+	.rl_item_base {
+		background-color: #444 !important;
+	}
+
+	.rl_item_base .title {
+		color: #f1f1f1 !important;
+	}
+
+	.kxbcl .kxbc:hover {
+		color: #888 !important;
+	}
+
+	.j04ED {
+		color: rgba(241,241,241,.54);
+	}
+
+	.j04ED a, .j04ED a:active, .j04ED a:link, .j04ED a:visited {
+		color: rgba(241,241,241,.54);
+	}
+
+	.H1ccWd {
+		color: #f1f1f1;
+	}
+
+	.wVudU {
+		background-color: #444;
+	}
+
+	.fB3vD {
+		color: #f1f1f1;
+	}
+
+	.AOvabd, .dxp44d {
+		background-color: #bbb;
+	}
+
+	.AOvabd:hover, .dxp44d:hover {
+		background-color: #ddd;
+	}
+
+	.MEdqYd, .feqqG {
+		background-color: #aaa;
+	}
+
+	.tR3EBc {
+		background-color: #ddd;
+	}
+/*  */
 	header[_ngcontent-ssu-c4] {
 		background-color: #222;
 	}
@@ -384,5 +517,424 @@
 	.gmat-elevation-zAvatarCard[_ngcontent-ssu-c41] .avatarCardImg[_ngcontent-ssu-c41], gmat-card.gmat-elevation-zAvatarCard[_ngcontent-ssu-c41] .avatarCardImg[_ngcontent-ssu-c41] {
 		background-color: #111;
 	}
+
+	/*  */
+
+	.section-layout.section-scrollbox.scrollable-y.scrollable-show {
+		background-color: #333;
+	}
+
+	.section-layout.section-cardbox {
+		background-color: #222 !important;
+	}
+
+	.section-categorical-shortcut-button-text, .section-list-item-subtitle-line, .section-area-weather-temperature {
+		color: rgba(241, 241, 241, 0.54);
+	}
+
+	.section-area-weather-title {
+		color: rgba(241, 241, 241, 0.87);
+	}
 	
+	.ambient-card-section:hover, .ambient-card-section:focus {
+		background-color: #333;
+	}
+
+	.ugiz4pqJLAG__button:hover, .ugiz4pqJLAG__button:focus {
+		background-color: #333;
+	}
+
+	.ugiz4pqJLAG__two-line-text .ugiz4pqJLAG__primary-text {
+		color: #f1f1f1;
+	}
+
+	.section-list-item-title, .section-text {
+		color: rgba(241, 241, 241, 0.87);
+	}
+
+	.suggestions {
+		background-color: #aaa;
+	}
+
+	.widget-settings-pane {
+		background-color: #333;
+	}
+
+	.section-suggestions {
+		background-color: #aaa;
+	}
+
+	.searchbox {
+		background-color: #eee;
+	}
+
+	.sbib_b::after {
+		background: linear-gradient(to right,rgba(238,238,238,0),rgba(238,238,238,1));
+	}
+
+	#gs_lc50 {
+		color: black;
+	}
+
+	/*  */
+
+	.zQTmif {
+		background-color: #333;
+	}
+
+	#gb {
+		background-color: #333 !important;
+	}
+
+	.VOEIyf .jBmls {
+		background-color: #ddd;
+	}
+
+	.gb_Te, .gb_Te.gb_Ue {
+		background-color: #ccc;
+	}
+
+	/* 420 lol */
+	.b42OPe {
+		background-color: #ddd;
+	}
+
+	.zWHNCf {
+		color: #f1f1f1;
+	}
+
+	.Ikgmhe {
+		color: #aaa;
+	}
+
+	.x95qze {
+		color: #888;
+	}
+
+	.LNrHIf .CHM9mc {
+		color: #f1f1f1;
+	}
+
+	.bDw0ac, .giB63b .oWh3Ld, .giB63b .NwrYVd {
+		color: #f1f1f1;
+	}
+
+	.GPmEYb {
+		color: #f1f1f1;
+	}
+
+	.GPmEYb.KKjvXb, .GPmEYb.KKjvXb:hover {
+		color: #777;
+	}
+
+	.MQsxIb {
+		color: #f1f1f1;
+	}
+
+	.dSva6b {
+		color: #f1f1f1;
+	}
+
+	.YDRMcc {
+		background-color: #222;
+	}
+
+	.To2ZZb.DbQnIe {
+		background-color: #222;
+	}
+
+	/*  */
+
+	.a-qc-La {
+		background-color: #333;
+	}
+
+	.a-U-ye-ha > .a-U-J {
+		background-color: #222;
+	}
+
+	.a-ec-Gd .Kzazxf.x6jRSb {
+		background-color: #777;
+	}
+
+	.a-da-Mf-B .a-Rc-Gd {
+		background-color: #aaa;
+	}
+
+	.a-D-B-x {
+		background-color: #444;
+	}
+
+	.h-R-w-d.a-l-S-Pc-w-d {
+		color: #f1f1f1;
+	}
+
+	.a-dkl3Ye .a-l-S-Pc-w-d.h-R-w-d-W, .a-dkl3Ye .a-l-S-Pc-w-d.h-R-w-d-pb {
+		background-color: #333 !important;
+	}
+
+	.a-dkl3Ye .a-HZnjzd-xb-dc-x {
+		background-color: #444;
+	}
+
+	.a-HZnjzd-xb-V {
+		color: rgba(241, 241, 241, .72);
+	}
+
+	.a-HZnjzd-xb-Np {
+		color: rgba(241, 241, 241, .54);
+	}
+
+	.s55KNe .bSmy5 {
+		background-color: #444;
+	}
+
+	.WYuW0e {
+		color: rgba(241, 241, 241, .72);
+	}
+
+	.s55KNe.RDfNAe .akerZd::before, .s55KNe .RDfNAe .akerZd::before, .s55KNe .tohzcb::before {
+		background-color: #333;
+	}
+
+	.N7iPof {
+		background-color: #333;
+	}
+
+	.iZz7md {
+		color: rgba(241, 241, 241, .54);
+	}
+
+	.aabwZd .WYuW0e .M3pype[data-column-field="6"] {
+		color: rgba(241, 241, 241, .72);
+	}
+
+	.aabwZd .WYuW0e {
+		color: rgba(241, 241, 241, .54);
+	}
+
+	.s55KNe:not(.KBj6Qd) .GZwC2b .jGNTYb, .aabwZd:not(.KBj6Qd) .GZwC2b {
+		background-color: #444;
+	}
+
+	.a-Ra-Qc .aabwZd:not(.KBj6Qd) .GZwC2b {
+		border-bottom: 1px solid #dadce0;
+	}
+
+	.Kk7lMc-Yb-Il-j {
+		background-color: #333;
+	}
+
+	.y-C-Ed-V {
+		background-color: #777;
+		color: #f1f1f1;
+	}
+
+	.y-C {
+		background-color: #444;
+	}
+
+	.a-nEbBXb .a-ub-oa {
+		background-color: #333;
+	}
+	.a-nEbBXb .a-ub-Gd {
+		background-color: #333;
+	}
+
+	.y-C-ka:hover, .y-C-ka:active, .y-C-ka:focus {
+		background-color: #222;
+	}
+
+	.y-C-fh-Bf-r {
+		color: #f1f1f1;
+	}
+
+	.a-nEbBXb .a-t-j .a-gd-j {
+		background-color: #444;
+	}
+
+	.a-nEbBXb .a-t-D {
+		background-color: #333;
+	}
+
+	.a-nEbBXb .l-t-T-V > .l-Ab-T-r {
+		color: rgba(241, 241, 241, .72);
+	}
+
+	.a-nEbBXb .a-t-J {
+		color: rgba(241, 241, 241, .54);
+	}
+
+	.ab-S-Wg {
+		color: #f1f1f1;
+	}
+
+	.lb-k, .modal-dialog, .modal-dialog-content, .modal-dialog-title {
+		background-color: #333;
+	}
+
+	.modal-dialog-title {
+		color: #f1f1f1;
+	}
+
+	.link-management-select, .inviter-recipient-area {
+		background-color: #ddd;
+	}
+
+	/*  */
+
+	#docs-chrome {
+		background-color: #333;
+	}
+
+	.docs-gm .docs-menubar .goog-control {
+		color: #f1f1f1;
+	}
+
+	.kix-appview-editor {
+		background-color: #444;
+	}
+
+	.companion-app-switcher-container {
+		background-color: #333;
+	}
+
+	.docs-material #docs-header .docs-titlebar-buttons {
+		background-color: #333;
+	}
+
+	.docs-explore-widget {
+		background-color: #666;
+	}
+
+	.docs-title-widget {
+		color: black;
+	}
+
+	.docs-gm .docs-menubar .goog-control-hover {
+		background-color: #444 !important;
+	}
+
+	.docs-menubar .goog-control-open {
+		background-color: #444 !important;
+	}
+
+	.docs-gm .docs-menubar .goog-control-open {
+		background-color: #444 !important;
+	}
+
+	.docs-homescreen-fcc-content {
+		background-color: #444;
+	}
+
+	.docs-homescreen-templates-templateview-title {
+		color: #f1f1f1;
+	}
+
+	.docs-hs-tmp-contractedheader-text {
+		color: #f1f1f1;
+	}
+
+	.docs-homescreen-templates-templateview-brandauthor, .docs-homescreen-templates-templateview-style {
+		color: #777;
+	}
+
+	.docs-homescreen-floater-header {
+		color: #f1f1f1;
+	}
+
+	.docs-homescreen-grid-item-title {
+		color: #f1f1f1;
+	}
+	.docs-homescreen-grid-item {
+		background-color: #444;
+	}
+
+	.docs-homescreen-floater-header, .docs-homescreen-item-container {
+		background-color: #555;
+	}
+
+	.docs-homescreen-homescreenmain {
+		background-color: #555;
+	}
+
+	.docs-homescreen-grid-header, .docs-homescreen-list-header {
+		background-color: transparent;
+	}
+
+	.gb_zc, .goog-menu {
+		background-color: #444;
+	}
+
+	.docs-homescreen-leftmenu-menuitem-text {
+		color: #f1f1f1;
+	}
+
+	.a-nEbBXb .l-u-xb {
+		background-color: #444;
+	}
+
+	.a-nEbBXb .l-u-V {
+		color: rgba(241, 241, 241 .72);
+	}
+
+	/*  */
+
+	.docs-homescreen-container {
+		background-color: #444;
+	}
+
+	.docs-homescreen-list-item {
+		color: #f1f1f1;
+		background-color: #444;
+	}
+
+	.docs-homescreen-list-item.goog-control-hover, .docs-homescreen-list-item.goog-control-focused {
+		background-color: #333;
+		border-radius: 0px;
+	}
+
+	.kf-Lk-Zb-Ze-Yb-Fj .a-Ze-w {
+		color: #f1f1f1;
+	}
+
+	.kf-Lk-Zb-Ze-Yb-Fj .a-Ze, .kf-Lk-Zb-Ze-Yb-Fj .a-kb-u {
+		color: #f2f2f2;
+	}
+
+	.kf-Lk-Zb-Ze-Yb-Fj .a-Ze-v {
+		color: #bbb;
+	}
+
+	.docs-gm .goog-menuitem {
+		color: #f1f1f1;
+	}
+
+	.script-promo-menu-item-description {
+		color: #ddd;
+	}
+
+	.waffle-printing-options-pane {
+		background-color: #aaa;
+	}
+
+	.goog-option-selected .goog-menuitem-content {
+		color: #777;
+	}
+	/*  */
+	.docs-homescreen-settings-dialog.docs-homescreen-modaldialog .modal-dialog-title {
+		color: #f1f1f1;
+	}
+
+	.docs-hs-tmp-sc-default .docs-homescreen-grid-header-title.docs-homescreen-grid-header-title {
+		color: #f1f1f1;
+	}
+
+	.docs-hs-tmp-sc-showcase .docs-homescreen-grid-header-title.docs-homescreen-grid-header-title {
+		color: #f1f1f1;
+	}
+
+	.docs-homescreen-templates-bar {
+		background-color: #aaa;
+	}
 }
