@@ -875,7 +875,7 @@
 	}
 
 	.a-nEbBXb .l-u-V {
-		color: rgba(241, 241, 241 .72);
+		color: rgba(241, 241, 241, .72);
 	}
 
 	/*  */
@@ -936,5 +936,17 @@
 
 	.docs-homescreen-templates-bar {
 		background-color: #aaa;
+	}
+
+	.docs-gm-dialogs .modal-dialog, .docs-gm-dialogs .docs-offline-optinpromo.jfk-bubble {
+		background-color: #333;
+	}
+
+	.docs-gm-dialogs .modal-dialog-title-text, .docs-gm-dialogs .docs-offline-optinpromo-title-text {
+		color: #f1f1f1;
+	}
+
+	.docs-gm-dialogs .modal-dialog, .docs-gm-dialogs .modal-dialog-content, .docs-gm-dialogs #docs-offline-optinpromo-description, .docs-gm-dialogs #docs-offline-optinpromo-learn-more-container {
+		color: #f1f1f1;
 	}
 }
